@@ -6,7 +6,7 @@ All you need is a pair of scissor, a deck of pocker cards, glue and the print ou
 
 
 # Content
-[L0.     Let's Play](https://github.com/Duck-Da-Bomb/Paper-Duck/wiki/)
+[L0.     Let's Play](https://github.com/Duck-Da-Bomb/Lite-Version/wiki/A.-Let's-Play!)
 
 [L1.     Beginner](https://github.com/Duck-Da-Bomb/Paper-Duck/wiki/L1.-Beginner)
 
