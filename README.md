@@ -2,7 +2,7 @@
 
 # Welcome onboard to the Duck Da Bomb family!
 Lite version is a free online DIY Kit where you can make a deck of coding card at home. 
-All you need is a pair of scissor, a deck of pocker cards, glue and the print out from the PDF. 
+All you need is a pair of scissor, a deck of pocker cards, glue and print out from the PDF. 
 
 
 # Content
